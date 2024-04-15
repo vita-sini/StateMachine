@@ -1,0 +1,1687 @@
+fileFormatVersion: 2
+guid: 032276786f3029f4d93aef703ffb4e13
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: R_Death_Backward_0
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2393
+        width: 53
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc91635a7ebe3743b7c86c69ba6cb14
+      internalID: -109569921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_1
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 2393
+        width: 53
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7716a0d0b207f7448a10a089ee39c72b
+      internalID: 1945266438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_2
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 2393
+        width: 55
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5be056a3a6cc844bc64f48e9b2d3ac
+      internalID: -1870420845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_3
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 2393
+        width: 56
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199a3da19c015504d9f32f30a92dc906
+      internalID: 894841567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_4
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 2393
+        width: 53
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6016f52d8f7e5443991bde260ed627f
+      internalID: -446731769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_5
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 2393
+        width: 52
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d46d7f65a42cd4fa669060e54d6665
+      internalID: -1817078433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_6
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 2393
+        width: 47
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e6ce31847b8f846ba67f438c072df9
+      internalID: -732376997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2136
+        width: 44
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fe23a3c7e6494429456b9133c95b6b
+      internalID: 394473013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_8
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 2136
+        width: 41
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30075dff229160d488b68fa3913a2ac9
+      internalID: -2091376468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_9
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 2136
+        width: 43
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5695013e19f5c0439b6f18c2a92cfa8
+      internalID: 1833486116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_10
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 2136
+        width: 45
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea65b2e2f190f1f42bdc1da165e813d7
+      internalID: 467228813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_11
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 2136
+        width: 45
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529936fa73862ae4a91c18e42ec0708a
+      internalID: -1180621546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_12
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 2136
+        width: 47
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f40312ef92cbcc4e947cd0e04ef18c1
+      internalID: -1822078655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_13
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 2136
+        width: 51
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc76c82fee139c4a8d027e6eecfe704
+      internalID: 1774642902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1880
+        width: 53
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729bd623184659b48bd611b97bd7fab7
+      internalID: 1984043317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_15
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1880
+        width: 55
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445927158c502f54dbb3be87727a061f
+      internalID: 1588900826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_16
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1880
+        width: 57
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b47565cc4703764b9573c4c6dd88f11
+      internalID: 1724097349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_17
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1880
+        width: 56
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c8e88fc4e23424d891bf2f34778e3d
+      internalID: 826470976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_18
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1880
+        width: 56
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349fc12a3f47f6145bc5a55ee0a77e45
+      internalID: -1354761357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_19
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1880
+        width: 57
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3381576942975334791dd0b0db7c6d14
+      internalID: 1356373309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_20
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1880
+        width: 56
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229f1b4eb2f961349b322b7fc88284c7
+      internalID: 746106008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1624
+        width: 55
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b8a5babd46cb14981d255863ffd5b2
+      internalID: -122291642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_22
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1624
+        width: 53
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e9048c5c8f7c743a5533861369b9df
+      internalID: -1080418332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_23
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1624
+        width: 53
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87500ab2f7b2bbf4b9612f358fedde96
+      internalID: 1438763096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_24
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1624
+        width: 51
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ef5da2cacc484409020731c43049ca
+      internalID: 1492157908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_25
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1624
+        width: 50
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f027ad25328789d4f88bc6456d85dd98
+      internalID: 1590903285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_26
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1624
+        width: 48
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f8f99486d896f4fadfd0e9bb2fd84d
+      internalID: -218623118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_27
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1624
+        width: 50
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46cc9aae2826db46a432b2c89de64a7
+      internalID: -615892380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_28
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1368
+        width: 49
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdab1cb9e42f39d42b3fd5e65f6ba987
+      internalID: 1833130077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_29
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1368
+        width: 50
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a03faf50a7d9624d8aeb1911e6d2f39
+      internalID: -926861902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_30
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1368
+        width: 50
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c820812ef00dd8247a2df959b752e614
+      internalID: -1159420437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_31
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1368
+        width: 50
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3b9d3c3ac1ca74ab0ea4c71e0a6808
+      internalID: 2005970050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_32
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1368
+        width: 49
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b6a31d48e466541a7f4a8fecc16dbf
+      internalID: -1126333040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_33
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1368
+        width: 49
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53a6f4bca9f4dc4b875bc34ec7dbd31
+      internalID: -1150249386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_34
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1368
+        width: 48
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f000aa54593a94aa8c51bd034bd548
+      internalID: -243722772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_35
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1113
+        width: 47
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9212d7b94ee25642ae2f45b91026d83
+      internalID: -30810391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_36
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1113
+        width: 47
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3bdfa09cf38b749a54f074effd6e35
+      internalID: 733654922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_37
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1113
+        width: 49
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fbd49a637199d4890d1d0d02d63280
+      internalID: -1285603259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_38
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1113
+        width: 51
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06938129d682c34b9310a9eb04e204a
+      internalID: 1366555684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_39
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1113
+        width: 53
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160a205840975874c893634e3be3e750
+      internalID: 2096777398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_40
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1113
+        width: 55
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbc7a974fb2c5b498cba9b79575790e
+      internalID: -786062801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_41
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1113
+        width: 57
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b4c5a1de1a9ab4f857171d3ecb804b
+      internalID: -1118296416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_42
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 858
+        width: 60
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf9b9beeab66aa4d878926fb020a0db
+      internalID: 1871253023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_43
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 858
+        width: 62
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a8c77aa5ab5014797454abe0213631
+      internalID: -1085062347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_44
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 858
+        width: 68
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fe6b2e2f288b8449a7fd2d6ca9abd7
+      internalID: -2076918944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_45
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 858
+        width: 69
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e60b25c4290674b964ab2decf5d602
+      internalID: 1105524773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_46
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 858
+        width: 73
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f513b4c8c8c25144b8cdacc2c53200fb
+      internalID: 933809700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_47
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 858
+        width: 77
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a42b948262fa174d814497e0090dae5
+      internalID: -1767419881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_48
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 855
+        width: 81
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643bcafa8927c5a40a9cf49a6172ad3d
+      internalID: 508683184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_49
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 599
+        width: 85
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9c916120405844f9854a4ffeed2c15
+      internalID: -161659811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_50
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 599
+        width: 90
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991cd1490cd58404e9cdf03f9e660e1e
+      internalID: -535606214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_51
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 600
+        width: 98
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcce8a9b26c98b41a3fe761ae445847
+      internalID: -524382911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_52
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 599
+        width: 100
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c580ce0a50f2cf747a9abb8966a61646
+      internalID: -108354452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_53
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 599
+        width: 99
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf7eb9d23df7624fac9117034e4634a
+      internalID: 464110227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_54
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 598
+        width: 98
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d93615716eec544296676e03f0e1d70
+      internalID: -1423484995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_55
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 599
+        width: 99
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44f95f069649984fa130d13d7028b81
+      internalID: -1289596142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_56
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 343
+        width: 101
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdc39306472d6046a99cf8b919cfdf4
+      internalID: -1138869352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_57
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 343
+        width: 102
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075a42d179c15df40bda896f39ffe7d3
+      internalID: -1201424804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_58
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 343
+        width: 103
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba631871670e2f489291648024c1fa3
+      internalID: -326858080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_59
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 344
+        width: 107
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9bc25e441f81845b326e5c893e3f31
+      internalID: 1276919359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_60
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 343
+        width: 108
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e951f9ac0faf4540af207dcff8e3a28
+      internalID: -1176731874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_61
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 343
+        width: 108
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c15440c91cbfe43b662210fbf90950
+      internalID: 1210394225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_62
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 343
+        width: 109
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef1108daf3bd9a499cbfc004876dd2c
+      internalID: 988627726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_63
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 86
+        width: 108
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa087017660d70f478d5821dc7c5395d
+      internalID: -987489294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_64
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 84
+        width: 108
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b4270ab20a2544d8877d934dfffab5
+      internalID: 1543640322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_65
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 84
+        width: 107
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2857437f9a4d4a4eb00378c10568183
+      internalID: -649352198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_66
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 84
+        width: 107
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b136bc44b842c06418215c8f3a0cb666
+      internalID: -1346833118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_67
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 86
+        width: 107
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4ff6f151d043e4ba2feedd003819e8
+      internalID: 1598837815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_68
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 86
+        width: 107
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659739c6b32d21f4da3bba31df2201ed
+      internalID: 1711427425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Death_Backward_69
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 86
+        width: 107
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c054f25326ce914682c59c67958fe93
+      internalID: 1192829467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      R_Death_Backward_0: -109569921
+      R_Death_Backward_1: 1945266438
+      R_Death_Backward_10: 467228813
+      R_Death_Backward_11: -1180621546
+      R_Death_Backward_12: -1822078655
+      R_Death_Backward_13: 1774642902
+      R_Death_Backward_14: 1984043317
+      R_Death_Backward_15: 1588900826
+      R_Death_Backward_16: 1724097349
+      R_Death_Backward_17: 826470976
+      R_Death_Backward_18: -1354761357
+      R_Death_Backward_19: 1356373309
+      R_Death_Backward_2: -1870420845
+      R_Death_Backward_20: 746106008
+      R_Death_Backward_21: -122291642
+      R_Death_Backward_22: -1080418332
+      R_Death_Backward_23: 1438763096
+      R_Death_Backward_24: 1492157908
+      R_Death_Backward_25: 1590903285
+      R_Death_Backward_26: -218623118
+      R_Death_Backward_27: -615892380
+      R_Death_Backward_28: 1833130077
+      R_Death_Backward_29: -926861902
+      R_Death_Backward_3: 894841567
+      R_Death_Backward_30: -1159420437
+      R_Death_Backward_31: 2005970050
+      R_Death_Backward_32: -1126333040
+      R_Death_Backward_33: -1150249386
+      R_Death_Backward_34: -243722772
+      R_Death_Backward_35: -30810391
+      R_Death_Backward_36: 733654922
+      R_Death_Backward_37: -1285603259
+      R_Death_Backward_38: 1366555684
+      R_Death_Backward_39: 2096777398
+      R_Death_Backward_4: -446731769
+      R_Death_Backward_40: -786062801
+      R_Death_Backward_41: -1118296416
+      R_Death_Backward_42: 1871253023
+      R_Death_Backward_43: -1085062347
+      R_Death_Backward_44: -2076918944
+      R_Death_Backward_45: 1105524773
+      R_Death_Backward_46: 933809700
+      R_Death_Backward_47: -1767419881
+      R_Death_Backward_48: 508683184
+      R_Death_Backward_49: -161659811
+      R_Death_Backward_5: -1817078433
+      R_Death_Backward_50: -535606214
+      R_Death_Backward_51: -524382911
+      R_Death_Backward_52: -108354452
+      R_Death_Backward_53: 464110227
+      R_Death_Backward_54: -1423484995
+      R_Death_Backward_55: -1289596142
+      R_Death_Backward_56: -1138869352
+      R_Death_Backward_57: -1201424804
+      R_Death_Backward_58: -326858080
+      R_Death_Backward_59: 1276919359
+      R_Death_Backward_6: -732376997
+      R_Death_Backward_60: -1176731874
+      R_Death_Backward_61: 1210394225
+      R_Death_Backward_62: 988627726
+      R_Death_Backward_63: -987489294
+      R_Death_Backward_64: 1543640322
+      R_Death_Backward_65: -649352198
+      R_Death_Backward_66: -1346833118
+      R_Death_Backward_67: 1598837815
+      R_Death_Backward_68: 1711427425
+      R_Death_Backward_69: 1192829467
+      R_Death_Backward_7: 394473013
+      R_Death_Backward_8: -2091376468
+      R_Death_Backward_9: 1833486116
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
